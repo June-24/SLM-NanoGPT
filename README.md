@@ -1,2 +1,2 @@
-# SLM-NanoGPT
+# Small-Language-Model
 
